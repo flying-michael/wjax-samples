@@ -15,7 +15,7 @@ import javax.ws.rs.core.Response;
  *
  * @author mtittel
  */
-@Path("/rentals")
+@Path("/test")
 @Stateless
 @Produces({MediaType.APPLICATION_XML, MediaType.APPLICATION_JSON})
 @Consumes(MediaType.APPLICATION_XML)
